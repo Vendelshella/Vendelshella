@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sonia Zamora Martín.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently studying web applications development.
+- 👀 I’m interested in programming and blockchain.
+- 🌱 I’m a web developer.
 - 📫 How to reach me: hechodeoroverde@gmail.com
